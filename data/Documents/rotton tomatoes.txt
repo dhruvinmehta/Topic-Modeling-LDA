@@ -1,0 +1,97 @@
+Rotten Tomatoes is a website launched in 1998 devoted to film reviews and news; it is widely known as a film review aggregator. Coverage now includes TV content as well. The name derives from the practice of audiences throwing rotten tomatoes when disapproving of a poor stage performance. The company was created by Senh Duong and since January 2010 has been owned by Flixster, which itself was acquired in 2011 by Warner Bros.
+
+Since 2007, the website's editor-in-chief has been Matt Atchity.[3] Localized versions are available in Britain, India and Australia. From early 2009 to September 2010, Current Television aired the weekly The Rotten Tomatoes Show, featuring hosts and material from the website. A shorter segment was incorporated into the weekly show, InfoMania, but it ended in 2011. In September 2013, the website introduced "TV Zone", a section for reviewing scripted TV shows. As of 1 January 2015, it is also an Alexa top 500 site.[2]
+
+Contents
+
+    1 History
+    2 Website
+        2.1 Tomatometer critic aggregate score
+        2.2 Critics Consensus
+        2.3 Audience Score and reviews
+        2.4 Membership and user accounts
+        2.5 Forums
+        2.6 Localized versions
+        2.7 API
+    3 The Rotten Tomatoes Show
+    4 Criticism
+    5 See also
+    6 References
+    7 External links
+
+History
+
+Rotten Tomatoes was launched on August 12, 1998, as a spare-time project by Senh Duong.[4] His goal in creating Rotten Tomatoes was "to create a site where people can get access to reviews from a variety of critics in the U.S."[5] As a fan of Jackie Chan, Duong was inspired to create the website after collecting all the reviews of Chan's movies as they were being published in the United States. The first movie whose reviews were featured on Rotten Tomatoes was Your Friends & Neighbors. The website was an immediate success, receiving mentions by Yahoo!, Netscape, and USA Today within the first week of its launch; it attracted "600–1000 daily unique visitors" as a result.[citation needed]
+
+Duong teamed up with University of California, Berkeley classmates Patrick Y. Lee and Stephen Wang, his former partners at the Berkeley, California–based web design firm Design Reactor, to pursue Rotten Tomatoes on a full-time basis. They officially launched it on April 1, 2000.[6]
+
+In June 2004, IGN Entertainment acquired rottentomatoes.com for an undisclosed sum.[7] In September 2005, IGN was bought by News Corp's Fox Interactive Media.[8] In January 2010, IGN sold the website to Flixster.[9] The combined reach of both companies is 30 million unique visitors a month across all different platforms, according to the companies.[10] In May 2011, Flixster was acquired by Warner Bros.[1]
+
+By late 2009, the website was designed to enable Rotten Tomatoes users to create and join groups to discuss different aspects of film. One group, "The Golden Oyster Awards", accepted votes of members for different awards, as if in parallel to the better-known Oscars or Golden Globes. When Flixster bought the company, they disbanded the groups, announcing: "The Groups area has been discontinued to pave the way for new community features coming soon. In the meantime, please use the Forums to continue your conversations about your favorite movie topics."[citation needed]
+
+As of February 2011, new community features have been added and others removed. For example, users can no longer sort films by fresh ratings from rotten ratings, and vice versa. On September 17, 2013, a section devoted to scripted television series, called "TV Zone", was created as a subsection of the website.[11]
+Website
+
+Rotten Tomatoes is a top 1000 site, placing around #500 globally, and top 200 for the US only, according to website ranker, Alexa.[12] Monthly unique visitors to the rottentomatoes.com domain is 26M global (14.4M US) according to audience measurement service, Quantcast.[13]
+Tomatometer critic aggregate score
+A Certified Fresh logo
+
+Rotten Tomatoes staff first collect online reviews from writers who are certified members of various writing guilds or film critic associations. To be accepted as a critic on the website, a critic's original reviews must garner a specific number of "likes" from users. Those classified as "Top Critics" generally write for major newspapers. The staff determine for each review whether it is positive ("fresh", marked by a small icon of a red tomato) or negative ("rotten", marked by a small icon of a green splattered tomato). (Staff assessment is needed as some reviews are qualitative rather than numeric in ranking.) At the end of the year, they identify the film that was rated highest as receiving the annual "Golden Tomato".[citation needed]
+
+The website keeps track of all of the reviews counted for each film and the percentage of positive reviews is calculated. (Major, recently released films can attract up to 300 reviews.) If the positive reviews make up 60% or more, the film is considered "fresh", in that a supermajority of the reviewers approve of the film. If the positive reviews are less than 60%, the film is considered "rotten".
+
+"Top Critics", such as Roger Ebert, Desson Thomson, Stephen Hunter, Owen Gleiberman, Lisa Schwarzbaum, Peter Travers, and Michael Phillips are identified in a sub-listing that calculates their reviews separately. Their opinions are also included in the general rating. When there are sufficient reviews, the staff creates and posts a consensus statement to express the general reasons for the collective opinion of the film.[citation needed]
+
+This rating is indicated by an equivalent icon at the film listing, to give the reader a one-glance look at the general critical opinion about the work. The "Certified Fresh" seal is reserved for movies that satisfy two criteria: a "Tomatometer" of 75% or better and at least 40 reviews from Tomatometer Critics (including 5 Top Critics). Films earning this status will keep it unless the positive critical percentage drops below 70%.[14] Films with 100% positive ratings but fewer than required reviews may not receive the "Certified Fresh" seal.
+Critics Consensus
+
+Each movie features a brief summary of the reviews used in that entry's Tomatometer aggregate score.
+Audience Score and reviews
+
+Each movie features a "user average", which calculates the percentage of users who have rated the film positively, similar to calculation of recognized critics' reviews. The users' score is more detailed, because users rate the movie on a scale of 0–10. (Critic reviews generally use 4-star ratings and are often qualitative). A user score of 7 (equivalent to 3.5 stars on a 5-star scale) or higher is considered positive. Registered and logged-in users can rate and review movies.
+Membership and user accounts
+
+Free registration on the site gives immediate access to a user profile and a variety of features, including the ability to rate and review movies, discussion forums, and a members messaging system similar to email. Registration requires first and last name, birthdate, and email address (verified by email reply), passing a CAPTCHA test, and accepting the Terms of Service and Privacy Policy. Alternatively, a Facebook login may be used to create and access a user account.
+Forums
+
+Rotten Tomatoes message forums allow participants to discuss movies, video games, music and other topics.
+Localized versions
+
+Localized versions of the site are available in Britain, India and Australia. Readers accessing Rotten Tomatoes from France and Germany are automatically redirected to the British version of the site, which provides local release dates, cinema listings, box office results, and promotes reviews from British critics. The US version is available via a "US site" button on the homepage. The localized versions of the site contain all of the US editorial content, reviews and film lists, and are augmented by local content maintained by an international editor based in Los Angeles.[citation needed]
+API
+
+The Rotten Tomaoes API (Application Program Interface) provides limited access to critic and audience ratings and reviews, allowing developers to incoporate Rotten Tomatoes data on other websites. The free service is intended for use in the US only; permission is required for use elsewhere.[15]
+The Rotten Tomatoes Show
+The Rotten Tomatoes Show on Current
+Genre 	Movie Review Program
+Humor
+Created by 	Current
+Written by 	Mark Ganek
+Ellen Fox
+Joel Church-Cooper
+Presented by 	Brett Erlich
+Ellen Fox
+Daniel Higgs
+Country of origin 	United States
+Original language(s) 	English
+No. of seasons 	2
+No. of episodes 	77
+Production
+Executive producer(s) 	Jeffrey Plunkett
+Brett Erlich
+Producer(s) 	Ben Stein
+John Lichman
+Editor(s) 	Dan Stoneberg
+Szu-Hua Wang
+James Stanton
+Running time 	22 minutes
+Broadcast
+Original channel 	Current TV
+Original run 	March 5, 2009 – September 16, 2010
+Chronology
+Followed by 	Rotten Tomatoes on InfoMania
+
+In early 2009, Current Television launched the televised version of the web review site, The Rotten Tomatoes Show. It was hosted by Brett Erlich and Ellen Fox and written by Mark Ganek. The show aired every Thursday at 10:30 EST on the Current TV network.[16] Depending on when an episode was filmed and originally aired, ratings of movies might differ from ratings currently found on the website. The last episode aired on September 16, 2010. It returned as a much shorter segment of InfoMania, a satirical news show that ended in 2011.
+Criticism
+
+In January 2010, on the occasion of the 75th anniversary of the New York Film Critics Circle, its chairman Armond White cited Rotten Tomatoes in particular and film review aggregators in general, as examples of how "the Internet takes revenge on individual expression."[17] He said they work by "dumping reviewers onto one website and assigning spurious percentage-enthusiasm points to the discrete reviews."[17] According to White, such websites "offer consensus as a substitute for assessment."[17]

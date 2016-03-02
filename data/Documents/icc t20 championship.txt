@@ -1,0 +1,81 @@
+The ICC T20 Championship is an international Twenty20 cricket competition run by the International Cricket Council. The competition is notional in that it is simply a ranking scheme overlaid on the regular T20I match schedule.[1] After every T20I match, the two teams involved receive points based on a mathematical formula. The total of each team's points total is divided by the total number of matches to give a rating, and all teams are ranked on a table in order of rating.[2]
+
+As of 5 January 2015, Sri Lanka lead the ICC T20I Championship with a rating of 131.
+
+Contents
+
+    1 Qualification
+    2 Points
+    3 Ranking table
+        3.1 Historical ICC T20I Champions
+    4 See also
+    5 References
+    6 External links
+
+Qualification
+
+According to the ICC website, "Only teams who have completed at least eight T20 international matches since 1st August between three and four years ago will have their rating above converted into a ranking on the main table." [3]
+Points
+
+The calculations for the Table are performed as follows:
+
+    Each team scores points based on the results of their matches.
+    Each team's rating is equal to its total points scored divided by the total matches played. (Series are not significant in these calculations).
+    A match only counts if played in the last three years.
+    Matches played in the first year of the three-year limit count one-third; matches played in the second year count two-thirds; matches played in the last year count fully; essentially, recent matches are given higher weighting.
+    To determine a team's rating after a particular match:
+        Determine the match result (win, loss, or tie)
+        Calculate the match points scored:
+            If the gap between the ratings of the two teams at the commencement of the match is fewer than 40 points, then:
+                The winner scores 50 points more than the opponent's rating
+                The loser scores 50 points fewer than the opponent's rating
+                Each team in a tie scores the opponent's rating
+            If the gap between the ratings of the two teams at the commencement of the match is more than or equal to 40 points, then :
+                The winner, if it is the stronger team, scores 10 points more than its own rating
+                The winner, if it is the weaker team, scores 90 points more than its own rating
+                The loser, if it is the stronger team, scores 90 points fewer than its own rating
+                The loser, if it is the weaker team, scores 10 points fewer than its own rating
+                The stronger team in a tie scores 40 points fewer than its own rating
+                The weaker team in a tie scores 40 points more than its own rating
+        Add the match points scored to the points already scored (in previous matches as reflected by the table) and determine the new rating. However, matches (and the points) which do not lie in last three year range will have to be removed.
+
+    Points earned by teams depend on the opponents ratings, therefore this system needed to assign base ratings to teams when it started.
+
+Ranking table
+ICC T20I Championship
+
+    v
+    t
+    e
+
+Rank 	Change 	Team 	Matches 	Points 	Rating
+1 	Steady 	 Sri Lanka 	23 	3006 	131
+2 	Steady 	 India 	16 	2009 	126
+3 	Steady 	 Pakistan 	29 	3474 	120
+4 	Steady 	 Australia 	26 	3041 	117
+5 	Steady 	 South Africa 	29 	3362 	116
+6 	Steady 	 West Indies 	28 	3140 	112
+7 	Steady 	 New Zealand 	24 	2567 	111
+8 	Steady 	 England 	25 	2481 	99
+9 	Steady 	 Ireland 	12 	1046 	87
+10 	Steady 	 Bangladesh 	16 	1147 	72
+11 	Steady 	 Netherlands 	14 	951 	68
+12 	Steady 	 Afghanistan 	12 	743 	62
+13 	Steady 	 Zimbabwe 	11 	573 	52
+14 	Steady 	 Scotland 	10 	512 	51
+Insufficient matches
+- 	Steady 	 Hong Kong 	4 	203 	51
+- 	Steady 	   Nepal 	4 	170 	43
+- 	Steady 	 United Arab Emirates 	3 	0 	0
+Reference: ICC Rankings, 14 January 2015
+Historical ICC T20I Champions
+Country 	Start 	End 	Duration 	Highest Rating
+ England 	24 October 2011 	March 2012 	6 months 	140
+ South Africa 	March 2012 	September 2012 	7 months 	130
+ Sri Lanka 	September 2012 	28 March 2014 	19 months 	134
+ India 	28 March 2014 	3 April 2014 	6 days 	130
+ Sri Lanka 	3 April 2014 	4 April 2014 	1 day 	131
+ India 	4 April 2014 	6 April 2014 	2 days 	132
+ Sri Lanka 	6 April 2014 	1 May 2014 	1 month 	133
+ India 	1 May 2014 	6 September 2014 	4 months 	131
+ Sri Lanka 	7 September 2014 	- 	- 	131

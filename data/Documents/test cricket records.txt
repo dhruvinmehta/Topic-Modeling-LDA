@@ -1,0 +1,541 @@
+Test cricket is played between international cricket teams who are Full Members of the International Cricket Council (ICC).[1] Unlike One Day Internationals, Test matches consist of two innings per team, having no limit in their number of overs.[2] Test cricket is first-class cricket, so statistics and records set in Test matches are also counted toward first-class records. The duration of Tests, currently limited to five days, has varied through Test history, ranging from three days to timeless matches.[3][4] The earliest match now recognised as a Test was played between England and Australia in March 1877;[5] since then there have been over 2,000 Tests played by 11 teams. The frequency of Tests has steadily increased partly because of the increase in the number of Test-playing countries, and partly as cricket boards seek to maximise their revenue.[6]
+
+Cricket is, by its nature, capable of generating large numbers of records and statistics.[7] This list details the most significant team and individual records in Test cricket.
+
+The most successful team in Test cricket, in terms of both wins and win percentage, is Australia, having won 362 of their 773 Tests (46.83%). Barring the ICC World XI, a rest of world team which played a single Test against Australia in 2005, the least successful team are Bangladesh who have struggled since their introduction to Test cricket in 2000, leading to questioning of their Test status.[8][9][10]
+
+Australian Donald Bradman, widely considered the greatest batsman of all time,[11][12] holds several personal and partnership records. He scored the most runs in a series, has the most double centuries and was a part of the record 5th and 6th wicket partnerships. His most significant record is his batting average of 99.94. One of cricket's most famous statistics,[13][14] it stands almost 40 runs higher than any other batsman's average. Don Bradman is the only player in the world to have scored 5000 runs against a single opposition: 5028 runs against England.[15]
+
+In the Manchester Test of 1956, England spin bowler Jim Laker took 19 wickets for 90 runs (19–90) which set not only the Test record for best match figures but also the first-class one.[16] In taking 10–53 in the second innings he became the first bowler to capture all ten wickets in a Test match innings, and his analysis remains the best innings figures. Indian Leg-spinner Anil Kumble is the only other bowler to have taken 10 wickets in an innings, claiming 10–74 against Pakistan in 1999.[17] West Indies batsman Brian Lara has the highest individual score in Test cricket: he scored 400 not out against England in 2004 to surpass the innings of 380 by Matthew Hayden six months earlier. Lara had held the record before Hayden, with a score of 375 against England 10 years earlier.[18] Pakistan's Misbah-ul-Haq holds the record of the fastest test half century from just 21 balls and along with West Indies Batsman Viv Richards holds the record of the fastest test century both of them scoring from just 56 balls.
+
+The trend of countries to increase the number of Test matches they play means that the aggregate lists are dominated by modern players. Sri Lankan spinner Muttiah Muralitharan became the highest Test wicket-taker in December 2007, when he passed Shane Warne's total of 708 wickets.[19] Within a year, the equivalent batting record of highest run-scorer had also changed hands: Sachin Tendulkar surpassed the tally of 11,953 runs by Brian Lara.[20] The record for most dismissals by a wicket-keeper is held by Mark Boucher of South Africa[21] while the record for most catches by a fielder is held by Rahul Dravid.[22]
+
+Contents
+
+    1 Listing criteria
+    2 Listing notation
+    3 Team records
+        3.1 Team wins, losses and draws
+        3.2 Result records
+            3.2.1 Greatest win margins (by innings)
+            3.2.2 Greatest win margin (by runs)
+            3.2.3 Matches that finished with scores level
+            3.2.4 Narrowest win margin (by wickets)
+            3.2.5 Narrowest win margin (by runs)
+            3.2.6 Victory after following-on
+            3.2.7 Most consecutive wins
+        3.3 Team scoring records
+    4 Individual records
+        4.1 Individual records (batting)
+            4.1.1 Career runs and career average
+            4.1.2 Innings or series
+            4.1.3 Most runs in an over
+            4.1.4 Centuries
+        4.2 Individual records (bowling)
+            4.2.1 Career
+            4.2.2 Series
+            4.2.3 Innings
+            4.2.4 Match records
+        4.3 Individual records (fielding)
+            4.3.1 Most catches in Test career
+        4.4 Individual records (wicket-keeping)
+        4.5 Individual records (as an all-rounder)
+        4.6 Individual records (other)
+    5 Partnership records
+        5.1 Highest partnership for each wicket
+        5.2 Highest partnerships
+    6 See also
+    7 References
+    8 External links
+
+Listing criteria
+
+In general the top five are listed in each category (except when there is a tie for the last place among the five, when all the tied record holders are noted).
+Listing notation
+
+Team notation
+
+    (300–3) indicates that a team scored 300 runs for three wickets and the innings was closed, either due to a successful run chase or if no playing time remained
+    (300–3 d) indicates that a team scored 300 runs for three wickets, and declared its innings closed
+    (300) indicates that a team scored 300 runs and was all out
+
+Batting notation
+
+    (100) indicates that a batsman scored 100 runs and was out
+    (100*) indicates that a batsman scored 100 runs and was not out
+
+Bowling notation
+
+    (5–100) indicates that a bowler has captured 5 wickets while conceding 100 runs
+
+Currently playing
+
+    † indicates a current Test cricketer
+
+Seasons
+
+    Cricket is played during the summer months in most countries. Domestic cricket seasons in Australia, New Zealand, South Africa, India, Pakistan, Sri Lanka, Bangladesh, Zimbabwe and the West Indies may therefore span two calendar years, and are by convention said to be played in (e.g.) "2008–09". A cricket season in England is described as a single year. e.g. "2009". An international Test series may be for a much shorter duration, and Cricinfo treats this issue by stating "any series or matches which began between May and September of any given year will appear in the relevant single year season and any that began between October and April will appear in the relevant cross-year season".[23] In the record tables, a two-year span generally indicates that the record was set within a domestic season in one of the above named countries.
+
+Team records
+Team wins, losses and draws
+Team 	First Test match 	Matches 	Won 	Lost 	Tied 	Drawn 	 % Won
+ Australia 	15 March 1877 	773 	362 	205 	2 	204 	46.83
+ Bangladesh 	10 November 2000 	88 	7 	70 	0 	11 	7.95
+ England 	15 March 1877 	952 	339 	275 	0 	338 	35.60
+ India 	25 June 1932 	487 	122 	156 	1 	208 	25.05
+ New Zealand 	10 January 1930 	399 	80 	160 	0 	159 	20.05
+ Pakistan 	16 October 1952 	387 	121 	110 	0 	156 	31.26
+ South Africa 	12 March 1889 	390 	144 	129 	0 	117 	36.92
+ Sri Lanka 	17 February 1982 	235 	71 	84 	0 	80 	30.21
+ West Indies 	23 June 1928 	503 	163 	170 	1 	169 	32.40
+ Zimbabwe 	18 October 1992 	97 	11 	60 	0 	26 	11.34
+ICC World XI 	14 October 2005 	1 	0 	1 	0 	0 	0.00
+
+Last updated: 10 January 2015[24]
+Result records
+Greatest win margins (by innings)
+Margin 	Teams 	Venue 	Season
+Innings and 579 runs 	 England (903-7 d) beat Australia (201 & 123) 	The Oval, London 	1938
+Innings and 360 runs 	 Australia (652–7 d) beat South Africa (159 & 133) 	New Wanderers Stadium, Johannesburg 	2001–02
+Innings and 336 runs 	 West Indies (614–5 d) beat India (124 & 154) 	Eden Gardens, Kolkata 	1958–59
+Innings and 332 runs 	 Australia (645) beat England (141 & 172) 	Brisbane Cricket Ground 	1946–47
+Innings and 324 runs 	 Pakistan (643) beat New Zealand (73 & 246) 	Gaddafi Stadium, Lahore 	2002
+
+Last updated: 10 January 2015[25]
+Greatest win margin (by runs)
+Margin 	Teams 	Venue 	Season
+675 runs 	 England (521 & 342–8 d) beat Australia (122 & 66) 	Brisbane Exhibition Ground 	1928–29
+562 runs 	 Australia (701 & 327) beat England (321 & 145) 	The Oval, London 	1934
+530 runs 	 Australia (328 & 578) beat South Africa (205 & 171) 	Melbourne Cricket Ground 	1910–11
+491 runs 	 Australia (381 & 361–5 d) beat Pakistan (179 & 72) 	WACA Ground, Perth 	2004–05
+465 runs 	 Sri Lanka (384 & 447–6 d) beat Bangladesh (208 & 158) 	Chittagong Divisional Stadium 	2008–09
+
+Last updated: 10 January 2015[26]
+Matches that finished with scores level
+See also: Tied Test
+Result 	Teams 	Venue 	Season
+Tie 	 Australia (505 & 232) vs  West Indies (453 & 284) 	Brisbane Cricket Ground 	1960–61
+Tie 	 India (397 & 347) vs  Australia (574–7 d & 170–5 d) 	MA Chidambaram Stadium, Madras 	1986–87
+Draw 	 Zimbabwe (376 & 234) vs  England (406 & 204–5) 	Queens Sports Club, Bulawayo 	1996–97
+Draw 	 India (482 & 242–9) vs  West Indies (590 & 134) 	Wankhede Stadium, Mumbai 	2011–12
+
+Last updated: 10 January 2015[27][28][29]
+Narrowest win margin (by wickets)
+Margin 	Teams 	Venue 	Season
+1 wicket 	 England (183 & 263–9) beat Australia (324 & 121) 	The Oval, London 	1902
+1 wicket 	 South Africa (91 & 287–9) beat England (184 & 190) 	Old Wanderers, Johannesburg 	1905–06
+1 wicket 	 England (382 & 282–9) beat Australia (266 & 397) 	Melbourne Cricket Ground 	1907–08
+1 wicket 	 England (183 & 173–9) beat South Africa (113 & 242) 	Newlands Cricket Ground, Cape Town 	1922–23
+1 wicket 	 Australia (216 & 260–9) beat West Indies (272 & 203) 	Melbourne Cricket Ground 	1951–52
+1 wicket 	 New Zealand (249 & 104–9) beat West Indies (140 & 212) 	Carisbrook, Dunedin 	1979–80
+1 wicket 	 Pakistan (256 & 315–9) beat Australia (337 & 232) 	National Stadium, Karachi 	1994–95
+1 wicket 	 West Indies (329 & 311–9) beat Australia (490 & 146) 	Kensington Oval, Bridgetown 	1998–99
+1 wicket 	 West Indies (273 & 216–9) beat Pakistan (269 & 219) 	Antigua Recreation Ground, St. John's 	1999–00
+1 wicket 	 Pakistan (175 & 262–9) beat Bangladesh (281 & 154) 	Ibn-e-Qasim Bagh Stadium, Multan 	2003
+1 wicket 	 Sri Lanka (321 & 352–9) beat South Africa (361 & 311) 	Paikiasothy Saravanamuttu Stadium, Colombo 	2006
+1 wicket 	 India (405 & 216–9) beat Australia (428 & 192) 	Punjab Cricket Association Stadium, Mohali 	2010–11
+
+Last updated: 10 January 2015[30]
+Narrowest win margin (by runs)
+Margin 	Teams 	Venue 	Season
+1 run 	 West Indies (252 & 146) beat Australia (213 & 184) 	Adelaide Oval 	1992–93
+2 runs 	 England (407 & 182) beat Australia (308 & 279) 	Edgbaston Cricket Ground, Birmingham 	2005
+3 runs 	 Australia (299 & 86) beat England (262 & 120) 	Old Trafford, Manchester 	1902
+ England (284 & 294) beat Australia (287 & 288) 	Melbourne Cricket Ground 	1982–83
+5 runs 	 South Africa (169 & 239) beat Australia (292 & 111) 	Sydney Cricket Ground 	1993–94
+
+Last updated: 10 January 2015[31]
+Victory after following-on
+See also: Follow-on
+Margin 	Teams 	Venue 	Season
+10 runs 	 England (325 & 437) beat  Australia (586 & 166) 	Sydney Cricket Ground 	1894–95
+18 runs 	 England (174 & 356) beat  Australia (401–9 d & 111) 	Headingley, Leeds 	1981
+171 runs 	 India (171 & 657–7 d) beat  Australia (445 & 212) 	Eden Gardens, Kolkata 	2000–01
+
+Last updated: 10 January 2015[32]
+Most consecutive wins
+Wins 	Team 	First win 	Last win
+16 	 Australia 	 Zimbabwe at Harare, 14 October 1999 	 India at Mumbai, 27 February 2001
+16 	 Australia 	 South Africa at Melbourne, 26 December 2005 	 India at Sydney, 2 January 2008
+11 	 West Indies 	 Australia at Bridgetown, 30 March 1984 	 Australia at Adelaide, 7 December 1984
+9 	 Sri Lanka 	 India at Colombo, 29 August 2001 	 Pakistan at Lahore, 6 March 2002
+9 	 South Africa 	 Australia at Durban, 15 March 2002 	 Bangladesh at Dhaka, 1 May 2003
+
+Last updated: 10 January 2015[33]
+Team scoring records
+Most runs in an innings Runs 	Teams 	Venue 	Season
+952-6 d 	 Sri Lanka (v India) 	Ranasinghe Premadasa Stadium, Colombo 	1997
+903-7 d 	 England (v Australia) 	The Oval, London 	1938
+849 	 England (v West Indies) 	Sabina Park, Kingston 	1929–30
+790–3 d 	 West Indies (v Pakistan) 	Sabina Park, Kingston 	1957–58
+765–6 d 	 Pakistan (v Sri Lanka) 	National Stadium, Karachi 	2008–09
+
+Last updated: 10 January 2015[34]
+Fewest runs in a completed innings Runs 	Teams 	Venue 	Date
+26 	 New Zealand (v England) 	Eden Park, Auckland 	25 March 1955
+30 	 South Africa (v England) 	St. George's Park, Port Elizabeth 	13 February 1896
+ South Africa (v England) 	Edgbaston Cricket Ground, Birmingham 	14 June 1924
+35 	 South Africa (v England) 	Newlands Cricket Ground, Cape Town 	1 April 1899
+36 	 Australia (v England) 	Edgbaston Cricket Ground, Birmingham 	29 May 1902
+ South Africa (v Australia) 	Melbourne Cricket Ground 	12 February 1932
+
+Last updated: 10 January 2015[35]
+Highest Runs (4th Innings) in Successful Chasing Runs 	Teams 	Venue 	Season
+418–7 	 West Indies (v Australia) 	Antigua Recreation Ground, St. John's 	2002–03
+414–4 	 South Africa (v Australia) 	WACA Ground, Perth 	2008–09
+406–4 	 India (v West Indies) 	Queen's Park Oval, Port of Spain 	1975–76
+404–3 	 Australia (v England) 	Headingley Stadium, Leeds 	1948
+387–4 	 India (v England) 	M. A. Chidambaram Stadium, Chennai 	2008–09
+
+Last updated: 10 January 2015[36]
+Individual records
+Individual records (batting)
+Career runs and career average
+For more details on this topic, see List of batsmen who have scored over 10000 Test cricket runs.
+Most career runs Runs 	Player 	Period
+15,921 (329 innings) 	India Sachin Tendulkar 	1989–2013
+13,378 (287 innings) 	Australia Ricky Ponting 	1995–2012
+13,289 (280 innings) 	South Africa Jacques Kallis 	1995–2013
+13,288 (286 innings) 	India Rahul Dravid 	1996–2012
+12,203 (225 innings) 	Sri Lanka Kumar Sangakkara† 	2000–Present
+
+Last updated: 10 January 2015[37]
+Most career runs – progression of record Runs 	Player 	Record held until 	Duration of record
+239 	Australia Charles Bannerman 	4 January 1882 	4 years, 295 days
+676 	England George Ulyett[a] 	13 August 1884 	2 years, 222 days
+860 	Australia Billy Murdoch[b] 	14 August 1886 	2 years, 1 day
+1,277 	England Arthur Shrewsbury 	23 January 1902 	15 years, 162 days
+1,293 	Australia Joe Darling[c] 	18 February 1902 	26 days
+1,366 	Australia Syd Gregory[d] 	14 June 1902 	116 days
+1,531 	England Archie MacLaren[e] 	13 August 1902 	60 days
+3,412 	Australia Clem Hill 	27 December 1924 	22 years, 136 days
+5,410 	England Jack Hobbs 	29 June 1937 	12 years, 184 days
+7,249 	England Wally Hammond 	27 November 1970 	33 years, 151 days
+7,459 	England Colin Cowdrey[f] 	23 March 1972 	1 year, 117 days
+8,032 	West Indies Cricket Board Garfield Sobers 	23 December 1981 	9 years, 275 days
+8,114 	England Geoff Boycott 	12 November 1983 	1 year, 324 days
+10,122 	India Sunil Gavaskar 	25 February 1993 	9 years, 105 days
+11,174 	Australia Allan Border 	25 November 2005 	12 years, 273 days
+11,953 	West Indies Cricket Board Brian Lara 	17 October 2008 	2 years, 327 days
+15,921 	India Sachin Tendulkar 	current 	6 years, 172 days
+
+Last updated: 10 January 2015[38]
+
+Notes:
+
+    ^[a] Ulyett finished his career with 949 runs
+    ^[b] Murdoch finished his career with 908 runs
+    ^[c] Darling finished his career with 1,657 runs
+    ^[d] Gregory finished his career with 2,282 runs
+    ^[e] MacLaren finished his career with 1,931 runs
+    ^[f] Cowdrey finished his career with 7,624 runs
+
+Highest career average Average 	Player 	Period
+99.94 (80 innings) 	Australia Donald Bradman 	1928–1948
+63.05 (23 innings) 	Bangladesh Mominul Haque 	2013–2014
+60.97 (41 innings) 	South Africa Graeme Pollock 	1963–1970
+60.83 (40 innings) 	West Indies Cricket Board George Headley 	1930–1954
+60.73 (84 innings) 	England Herbert Sutcliffe 	1924–1935
+
+Qualification: 20 innings.
+Last updated: 10 January 2015[39]
+Notes:
+
+    If the qualification is removed, the highest career batting average list is topped by Andy Ganteaume, who scored 112 in his only Test innings[40]
+
+Innings or series
+Highest individual score (see also List of Test cricket triple centuries) Runs 	Player 	Opponent 	Venue 	Season
+400* 	West Indies Cricket Board Brian Lara 	v England 	Antigua Recreation Ground, St. John's 	2003–04
+380 	Australia Matthew Hayden 	v Zimbabwe 	WACA Ground, Perth 	2003–04
+375 	West Indies Cricket Board Brian Lara 	v England 	Antigua Recreation Ground, St. John's 	1993–94
+374 	Sri Lanka Mahela Jayawardene 	v South Africa 	Sinhalese Sports Club Ground, Colombo 	2006
+365* 	West Indies Cricket Board Garfield Sobers 	v Pakistan 	Sabina Park, Kingston 	1957–58
+
+Last updated: 10 January 2015[41]
+Highest individual score – progression of record Runs 	Player 	Opponent 	Venue 	Season 	Test Match Number
+165* 	Australia Charles Bannerman 	v England 	Melbourne Cricket Ground 	1876–77 	Test No. 1
+211 	Australia Billy Murdoch 	v England 	The Oval, London 	1884 	Test No. 16
+287 	England Tip Foster 	v Australia 	Sydney Cricket Ground 	1903–04 	Test No. 78
+325 	England Andy Sandham 	v West Indies 	Sabina Park, Kingston 	1929–30 	Test No. 193
+334 	Australia Donald Bradman 	v England 	Headingley Stadium, Leeds 	1930 	Test No. 196
+336* 	England Wally Hammond 	v New Zealand 	Eden Park, Auckland 	1932–33 	Test No. 226
+364 	England Len Hutton 	v Australia 	The Oval, London 	1938 	Test No. 266
+365* 	West Indies Cricket Board Garfield Sobers 	v Pakistan 	Sabina Park, Kingston 	1957–58 	Test No. 452
+375 	West Indies Cricket Board Brian Lara 	v England 	Antigua Recreation Ground, St. John's 	1993–94 	Test No. 1259
+380 	Australia Matthew Hayden 	v Zimbabwe 	WACA Ground, Perth 	2003–04 	Test No. 1661
+400* 	West Indies Cricket Board Brian Lara 	v England 	Antigua Recreation Ground, St. John's 	2003–04 	Test No. 1696
+
+Last updated: 10 January 2015[42]
+Most runs in a match Runs 	Scores 	Player 	Match
+456 	333 and 123 	England Graham Gooch 	v India at Lord's, 1990
+426 	334* and 92 	Australia Mark Taylor 	v Pakistan at Peshawar, 1998–99
+424 	319 and 105 	Sri Lanka Kumar Sangakkara† 	v Bangladesh at Chittagong, 2013–14
+400 	400* 	West Indies Cricket Board Brian Lara 	v England at St John's, Antigua, 2003–04
+380 	247* and 133 	Australia Greg Chappell 	v New Zealand at Wellington, 1973–74
+380 	Australia Matthew Hayden 	v Zimbabwe at Perth, 2003–04
+
+Last updated: 10 January 2015[43]
+Most runs in a series Runs 	Player 	Series
+974 (7 innings) 	Australia Donald Bradman 	v England, 1930
+905 (9 innings) 	England Wally Hammond 	v Australia, 1928–29
+839 (11 innings) 	Australia Mark Taylor 	v England, 1989
+834 (9 innings) 	Australia Neil Harvey 	v South Africa, 1952–53
+829 (7 innings) 	West Indies Cricket Board Viv Richards 	v England, 1976
+827 (10 innings) 	West Indies Cricket Board Clyde Walcott 	v Australia, 1955
+824 (8 innings) 	West Indies Cricket Board Gary Sobers 	v Pakistan, 1957–58
+810 (9 innings) 	Australia Donald Bradman 	v England, 1936–37
+806 (5 innings) 	Australia Donald Bradman 	v South Africa, 1931–32
+798 (8 innings) 	West Indies Cricket Board Brian Lara 	v England, 1993-94
+
+Last updated: 10 January 2015[44]
+Most runs in an over
+
+Last updated: 10 January 2015[45]
+Runs 	Sequence 	Batsman 	Bowler 	Venue 	Season
+28 	4–6–6–4–4–4 	West Indies Cricket Board Brian Lara 	South Africa Robin Peterson† 	Wanderers Stadium, Johannesburg 	2003–04
+4–6–2–4–6–6 	Australia George Bailey† 	England James Anderson† 	WACA, Perth 	2013–14
+27 	6–6–6–6–2–1 	Pakistan Shahid Afridi 	India Harbhajan Singh† 	Gaddafi Stadium, Lahore 	2005–06
+26 	4–4–6–0–6–6 	Australia Mitchell Johnson† 	South Africa Paul Harris† 	Wanderers Stadium, Johannesburg 	2008–09
+4–0–6–6–6–4 	West Indies Cricket Board Brian Lara 	Pakistan Danish Kaneria† 	Multan Cricket Stadium 	2006–07
+4–4–4–4–6–4 	New Zealand Craig McMillan 	Pakistan Younis Khan† 	Seddon Park, Hamilton 	2000–01
+4–6–6–0–4–6 	New Zealand Brendon McCullum 	Sri Lanka Suranga Lakmal 	Hagley Oval, Christchurch, New Zealand 	2014–15
+Centuries
+
+Most Test centuries
+Centuries 	Player 	Matches 	Innings 	Inns/Century
+51 	India Sachin Tendulkar 	200 	329 	6.4
+45 	South Africa Jacques Kallis 	166 	280 	6.2
+41 	Australia Ricky Ponting 	168 	287 	7.0
+38 	Sri Lanka Kumar Sangakkara† 	130 	224 	5.9
+36 	India Rahul Dravid 	164 	286 	7.9
+34 	India Sunil Gavaskar 	125 	214 	6.3
+34 	West Indies Cricket Board Brian Lara 	131 	232 	6.8
+34 	Sri Lanka Mahela Jayawardene 	149 	252 	7.4
+32 	Australia Steve Waugh 	168 	260 	8.1
+30 	Australia Matthew Hayden 	103 	184 	6.1
+30 	West Indies Cricket Board Shivnarine Chanderpaul† 	158 	269 	8.9
+29 	Australia Don Bradman 	52 	80 	2.8
+
+Last updated: 10 January 2015[46]
+Fastest Test centuries No. of balls 	Player 	Opponent 	Venue 	Season
+56 	West Indies Cricket Board Viv Richards 	v England England 	Antigua Recreation Ground, St. John's 	1985–86
+56 	Pakistan Misbah-ul-Haq 	v Australia Australia 	Sheikh Zayed Cricket Stadium, Abu Dhabi 	2014
+57 	Australia Adam Gilchrist 	v England England 	WACA Ground, Perth 	2006–07
+67 	Australia Jack Gregory 	v South Africa South Africa 	Old Wanderers, Johannesburg 	1921–22
+69 	West Indies Cricket Board Shivnarine Chanderpaul† 	v Australia Australia 	Bourda, Georgetown, Guyana 	2002–03
+69 	Australia David Warner† 	v India India 	WACA Ground, Perth 	2011–12
+
+Last updated: 10 January 2015[47]
+Most Test double centuries Double centuries 	Player 	Matches
+12 	Australia Donald Bradman 	52
+11 	Sri Lanka Kumar Sangakkara† 	130
+9 	West Indies Cricket Board Brian Lara 	131
+7 	England Wally Hammond 	85
+Sri Lanka Mahela Jayawardene 	149
+
+Last updated: 10 January 2015[48]
+Most Test triple centuries Triple centuries 	Player 	Matches
+2 	Australia Donald Bradman 	52
+India Virender Sehwag 	104
+West Indies Cricket Board Chris Gayle† 	103
+West Indies Cricket Board Brian Lara 	131
+
+Last updated: 10 January 2015[49]
+Note:
+
+17 other players have scored a triple century in a Test: see List of Test cricket triple centuries for more details
+Bradman also has the record for most scores of 250+ at five, Sehwag has four[50]
+Most Test quadruple centuries Quadruple centuries 	Player 	Matches
+1 	West Indies Cricket Board Brian Lara 	131
+
+Last updated: 10 January 2015[51]
+Individual records (bowling)
+Career
+Most wickets in a career Wickets 	Player 	Matches 	Average
+800 	Sri Lanka Muttiah Muralitharan 	133 	22.72
+708 	Australia Shane Warne 	145 	25.41
+619 	India Anil Kumble 	132 	29.65
+563 	Australia Glenn McGrath 	124 	21.64
+519 	West Indies Cricket Board Courtney Walsh 	132 	24.44
+
+Last updated: 10 January 2015[52]
+Most wickets in a career – Progression of record Wickets 	Player 	Matches 	Average 	Record held until 	Duration of record
+8[a] 	England Alfred Shaw 	1 	10.75 	31 March 1877 	16 days
+14 	Australia Tom Kendall 	2 	15.35 	4 January 1879 	1 year, 279 days
+94[b] 	Australia Fred Spofforth 	18 	18.41 	12 January 1895 	16 years, 8 days
+118 	England Johnny Briggs 	33 	17.75 	2 January 1904 	8 years, 355 days
+141 	Australia Hugh Trumble 	32 	21.78 	13 December 1913 	9 years, 345 days
+189 	England Sydney Barnes 	27 	16.43 	4 January 1936 	22 years, 22 days
+216 	Australia Clarrie Grimmett 	37 	24.21 	24 July 1953 	17 years, 201 days
+236 	England Alec Bedser 	51 	24.89 	26 January 1963 	9 years, 186 days
+242[c] 	England Brian Statham 	67 	24.27 	15 March 1963 	48 days
+307 	England Fred Trueman 	67 	21.57 	1 February 1976 	12 years, 323 days
+309 	West Indies Cricket Board Lance Gibbs 	79 	29.09 	27 December 1981 	5 years, 329 days
+355 	Australia Dennis Lillee 	70 	23.92 	21 August 1986 	4 years, 237 days
+373[d] 	England Ian Botham 	94 	27.86 	12 November 1988 	2 years, 83 days
+431 	New Zealand Richard Hadlee 	86 	22.29 	8 February 1994 	5 years, 88 days
+434 	India Kapil Dev 	131 	29.64 	27 March 2000 	6 years, 48 days
+519 	West Indies Cricket Board Courtney Walsh 	132 	24.44 	8 May 2004 	4 years, 42 days
+532[e] 	Sri Lanka Muttiah Muralitharan 	91 	22.87 	15 October 2004 	160 days
+708 	Australia Shane Warne 	145 	25.41 	3 December 2007 	3 years, 49 days
+800 	Sri Lanka Muttiah Muralitharan 	133 	22.72 	Current 	7 years, 125 days
+
+Notes
+^[a] Allen Hill took the first Test wicket, but only two in the First Test match. Alfred Shaw (3/51 & 5/35) and Tom Kendall (1/54 & 7/55) both took eight wickets, but as Australia batted first Shaw was the first to take five wickets in an innings and the first to take eight Test wickets. Kendal overook him in the Second Test and Shaw subsequently increased his total to 12 wickets (15.35) in seven Tests[53]
+^[b] Johnny Briggs equalled Fred Spofforth's record of 94 Test wickets on 29 December 1894 in the Second Test at Melbourne, as did Charles Turner two days later. Briggs overook Turner and Spofforth in the Third Test at Adelaide, which Turner missed, and became the first man to claim 100 Test wickets on 1 February 1895 in the Fourth Test at Sydney. Turner became the second three days later and ended with a total of 101 wickets (16.53) in 17 Tests[54]
+^[c] Fred Trueman overtook Brian Statham's then record of 242 Test wickets and Statham subsequently increased his total to 252 wickets (24.84) in 70 Tests
+^[d] Richard Hadlee overtook Ian Botham's then record of 373 Test wickets and Botham subsequently increased his total to 383 wickets (28.40) in 102 Tests
+^[e] Shane Warne overtook Muttiah Muralitharan's then record of 532 Test wickets and Muralitharan subsequently increased his total to 800 wickets (22.72) in 133 Tests[55]
+Best career average Average 	Player 	Balls 	Wickets
+10.75 	England George Lohmann 	3,830 	112
+12.70 	England/Australia John Ferris[a] 	2,302 	61
+15.54 	England Billy Barnes 	2,289 	51
+16.42 	England Billy Bates 	2,364 	50
+16.43 	England Sydney Barnes 	7,873 	189
+
+Qualification: 2000 balls bowled
+Last updated: 10 January 2015[56]
+
+Note: If the qualification is removed, the best career average record is at 0.00 runs per wicket (i.e. no runs were conceded). This record is shared by Englishmen A N Hornby, Wilf Barber and New Zealander, Bruce Murray who took one wicket without conceding a run[57]
+
+    ^[a] John Ferris was one of a few cricketers to play Test cricket for more than one country. He played in eight Tests for Australia from 1886–87 and a single Test for England in South Africa in 1891–92.[58]
+
+Best career strike rate Strike rate 	Player 	Balls 	Wickets
+41.6 	South Africa Dale Steyn 	16,486 	396
+47.2 	South Africa Vernon Philander 	5,717 	121
+49.9 	West Indies Cricket Board Kemar Roach 	5,639 	113
+50.7 	Australia Ryan Harris 	5,736 	113
+50.9 	Australia Mitchell Johnson 	14,411 	283
+
+Qualification: 4000 balls bowled and need to have played in last year
+Last updated: 10 January 2015[59]
+Most 5 wickets in an innings 5 wickets in an innings 	Player 	Matches
+67 	Sri Lanka Muttiah Muralitharan 	133
+37 	Australia Shane Warne 	145
+36 	New Zealand Richard Hadlee 	86
+35 	India Anil Kumble 	132
+29 	Australia Glenn McGrath 	124
+
+Last updated: 10 January 2015[60]
+Most 10 wickets in a match 10 wickets in a match 	Player 	Matches
+22 	Sri Lanka Muttiah Muralitharan 	133
+10 	Australia Shane Warne 	145
+9 	New Zealand Richard Hadlee 	86
+8 	India Anil Kumble 	132
+7 	England Sydney Barnes 	27
+Australia Clarrie Grimmett 	37
+Australia Dennis Lillee 	70
+
+Last updated: 10 January 2015[61]
+Series
+Most wickets in a series Wickets 	Player 	Series
+49 (4 Tests) 	England Sydney Barnes 	v South Africa, 1913–14
+46 (5 Tests) 	England Jim Laker 	v Australia, 1956
+44 (5 Tests) 	Australia Clarrie Grimmett 	v South Africa, 1935–36
+42 (6 Tests) 	Australia Terry Alderman 	v England, 1981
+41 (6 Tests) 	Australia Terry Alderman 	v England, 1989
+Australia Rodney Hogg 	v England, 1978–79
+40 (5 Tests) 	Australia Shane Warne 	v England, 2005
+40 (6 Tests) 	Pakistan Imran Khan 	v India, 1982–83
+
+Last updated: 10 January 2015[62]
+Innings
+Best figures in an innings Bowling 	Player 	Opponent 	Venue 	Season
+10–53 	England Jim Laker 	v Australia (2nd innings) 	Old Trafford, Manchester 	1956
+10–74 	India Anil Kumble 	v Pakistan 	Feroz Shah Kotla, Delhi 	1998–99
+9–28 	England George Lohmann 	v South Africa 	Old Wanderers, Johannesburg 	1895–96
+9–37 	England Jim Laker 	v Australia (1st innings) 	Old Trafford, Manchester 	1956
+9–51 	Sri Lanka Muttiah Muralitharan 	v Zimbabwe 	Asgiriya Stadium, Kandy 	2001–02
+
+Last updated: 10 January 2015[63]
+Best figures in an innings – progression of record Bowling 	Player 	Opponent 	Venue 	Season
+7–55 	Australia Tom Kendall
+(in the inaugural Test Match) 	v England 	Melbourne Cricket Ground 	1876–77
+7–44 	Australia Fred Spofforth 	v England 	The Oval, London 	1882
+7–28 	England Billy Bates 	v Australia 	Melbourne Cricket Ground 	1882–83
+8–35 	England George Lohmann 	v Australia 	Sydney Cricket Ground 	1886–87
+8–11 	England Johnny Briggs 	v South Africa 	Newlands Cricket Ground, Cape Town 	1888–89
+8–7 	England George Lohmann 	v South Africa 	St. George's Park, Port Elizabeth 	1895–96
+9–28 	England George Lohmann 	v South Africa 	Old Wanderers, Johannesburg 	1895–96
+10–53 	England Jim Laker 	v Australia 	Old Trafford, Manchester 	1956
+
+Calculated at the conclusion of each Test
+Last updated: 10 January 2015
+Match records
+Best figures in a match Bowling 	Player 	Opponent 	Venue 	Season
+19–90 	England Jim Laker 	v Australia 	Manchester, England, 	1956
+17–159 	England Sydney Barnes 	v South Africa 	Old Wanderers, Johannesburg 	1913–14
+16–136 	India Narendra Hirwani 	v West Indies 	M. A. Chidambaram Stadium, Chennai 	1987–88
+16–137 	Australia Bob Massie 	v England 	Lord's Cricket Ground, London 	1972
+16–220 	Sri Lanka Muttiah Muralitharan 	v England 	The Oval, London 	1998
+
+Last updated: 10 January 2015[64]
+Individual records (fielding)
+Most catches in Test career
+Catches 	Player 	Matches
+210 	India Rahul Dravid 	164
+205 	Sri Lanka Mahela Jayawardene 	149
+200 	South Africa Jacques Kallis 	166
+196 	Australia Ricky Ponting 	168
+181 	Australia Mark Waugh 	128
+Note:The list excludes catches made as wicket-keeper[65] Last updated: 10 January 2015
+Individual records (wicket-keeping)
+Most dismissals Dismissals 	Player 	Matches
+555 (532 catches + 23 stumpings) 	South Africa Mark Boucher 	147
+416 (379 catches + 37 stumpings) 	Australia Adam Gilchrist 	96
+395 (366 catches + 29 stumpings) 	Australia Ian Healy 	119
+355 (343 catches + 12 stumpings) 	Australia Rod Marsh 	96
+294 (256 catches + 38 stumpings) 	India Mahendra Singh Dhoni 	90
+
+Last updated: 10 January 2015[66]
+Note:
+
+Alec Stewart took 277 dismissals but this includes 36 catches taken in 51 matches in which he was not the designated wicket-keeper
+Most catches Catches 	Player 	Matches
+532 	South Africa Mark Boucher 	147
+379 	Australia Adam Gilchrist 	96
+366 	Australia Ian Healy 	119
+343 	Australia Rod Marsh 	96
+265 	West Indies Cricket Board Jeff Dujon 	81
+
+Last updated: 10 January 2015[67]
+Most stumpings Stumpings 	Player 	Matches
+52 	Australia Bert Oldfield 	54
+46 	England Godfrey Evans 	91
+38 	India Syed Kirmani 	88
+38 	India Mahendra Singh Dhoni 	90
+37 	Australia Adam Gilchrist 	96
+
+Last updated: 10 January 2015[68]
+Individual records (as an all-rounder)
+10 Wickets and a Century in a Test Match Player 	Runs 	Wickets 	Date 	Opponent 	Venue
+England Ian Botham[69] 	114 	13—109 	15 February 1980 	v India 	Mumbai, India
+Pakistan Imran Khan[69] 	117 	11—180 	3 January 1983 	v India 	Faisalabad, Pakistan
+Bangladesh Sakib Al Hasan[69] 	137 	10—124 	3 November 2014 	v Zimbabwe 	Khulna, Bangladesh
+
+Last updated: 10 January 2015[70]
+Individual records (other)
+Most matches played Matches 	Player 	Period
+200 	India Sachin Tendulkar 	1989–2013
+168 	Australia Steve Waugh 	1985–2004
+168 	Australia Ricky Ponting 	1995–2012
+166 	South Africa Jacques Kallis 	1995–2013
+164 	India Rahul Dravid 	1996–2012
+
+Last updated: 10 January 2015[71]
+Most matches played as captain Matches 	Player 	Won 	Lost 	Drawn 	Tied
+109 	South Africa Graeme Smith 	53 	29 	27 	0
+93 	Australia Allan Border 	32 	22 	38 	1
+80 	New Zealand Stephen Fleming 	28 	27 	25 	0
+77 	Australia Ricky Ponting 	48 	16 	13 	0
+74 	West Indies Cricket Board Clive Lloyd 	36 	12 	26 	0
+
+Last updated: 10 January 2015 [72]
+Most matches won as captain Won 	Player 	Lost 	Drawn 	Ties 	Matches
+53 	South Africa Graeme Smith 	26 	26 	0 	109
+48 	Australia Ricky Ponting 	16 	13 	0 	77
+41 	Australia Steve Waugh 	9 	7 	0 	57
+36 	West Indies Cricket Board Clive Lloyd 	12 	26 	0 	74
+32 	Australia Allan Border 	22 	38 	1 	93
+
+Last updated: 10 January 2015 [73]
